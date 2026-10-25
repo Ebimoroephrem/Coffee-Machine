@@ -1,4 +1,11 @@
+# Fichiers générés par Maven
 target/
-.idea/
+
+# Configuration locale des éditeurs
 .vscode/
+.idea/
 *.iml
+
+# Fichiers du système
+.DS_Store
+Thumbs.db
